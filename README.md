@@ -2,7 +2,7 @@
 
 This application was made to make it easier to pay for Belgrade public transport before it was free and before the official app was released. I automatically generates QR code on desktop and send an SMS on mobile (which was the only method of payment).
 
-<img width="944" height="759" alt="Screenshot 2026-04-08 150616" src="https://github.com/user-attachments/assets/ecf134bd-948d-400d-9943-9d0bcb12576c" />
+<img width="1501" height="964" alt="Screenshot 2026-04-12 at 23 16 13" src="https://github.com/user-attachments/assets/7ee19c8b-6bb2-4fb1-b869-344255587f4a" />
 
 ## Project Setup
 
